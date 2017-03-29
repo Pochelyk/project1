@@ -1,0 +1,626 @@
+body {
+    font-family: "Open Sans";
+    margin: 0 auto;
+}
+
+body:before {
+    background-color: #64ba4a;
+    height: 8px;
+    content: "";
+    display: block;
+}
+
+header {
+    width: 980px;
+    margin: 0px auto;
+}
+
+.cont1 .block1,
+.cont1 .log,
+.cont1 .block3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.cont1 .block1 .wer a {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 22px;
+    color: #0069b4;
+    padding-left: 35px;
+    position: relative;
+}
+
+.cont1 .block1 .wer img {
+    padding-left: 15px;
+    height: 18px;
+    margin-top: 1px;
+    position: absolute;
+    display: block;
+}
+
+.cont1 .block1 .menu1 {
+    max-width: 270px;
+    display: block;
+    position: relative;
+    top: 30px;
+
+}
+
+.cont1 .block1 .menu1 a {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 28px;
+    color: #333333;
+    margin: 5px;
+}
+
+.cont1 {
+    position: relative;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.cont1 .log {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: -50px;
+    margin-right: -50px;
+    left: 50%;
+    right: 50%;
+
+}
+
+.cont1 .block3 .contacts a.number,
+.cont1 .block3 .contacts a img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.cont1 .block3 .contacts a {
+    position: relative;
+
+}
+
+.cont1 .block3 .contacts a img {
+    position: absolute;
+    top: 5px;
+    display: block;
+    left: -25px;
+
+}
+
+.cont1 .block3 .contacts a.namber {
+    font-weight: 300;
+    font-size: 20px;
+    text-decoration: none;
+    color: #333333;
+    top: 10px;
+}
+
+.cont1 .block3 .contacts a.nedozv {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 22px;
+    color: #0069b4;
+    position: relative;
+    top: 10px;
+}
+
+.cont1 .block3 .work ul {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 19px;
+    color: #999999;
+    list-style-type: none;
+
+}
+
+.thinks {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 22px;
+    color: #333333;
+
+}
+
+.coltovar {
+    color: #179547
+}
+
+.cont1 {
+    display: table;
+    width: 100%;
+}
+
+.cont1 .block1,
+.cont1 .block3 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/*!*  VERY BIGS IMAGES**/
+.container {
+    width: 1010px;
+    margin: 0px auto;
+}
+
+.baner .image1 {
+    width: 300px;
+    float: left;
+}
+
+.baner .slider {
+    width: 640px;
+    float: right;
+
+}
+
+.clear:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+/*333333333*//*333333333*//*333333333*//*333333333*//*333333333*//*333333333*/
+.informs1 div {
+    display: inline-block;
+
+}
+.informs1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container .three {
+    width: 980px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.service {
+    width: 660px;
+}
+
+.service .card {
+    box-sizing: border-box;
+    float: left;
+    width: 25%;
+}
+
+.clear:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.card span {
+    font-weight: 700;
+    font-size: 14px;
+    color: #333333;
+}
+
+.card p {
+    font-weight: 300;
+    font-size: 12px;
+    color: #666666;
+}
+
+.informs1 div.podpiska {
+    background-color: #64ba4a;
+    height: 160px;
+    width: 320px;
+}
+
+.informs1 {
+    float: left;
+}
+
+.podpiska {
+    float: right;
+}
+
+.clear {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.podpiska span.type1 {
+    padding-left: 20px;
+    padding-top: 15px;
+    letter-spacing: 0px;
+    font-size: 16px;
+    line-height: 40px;
+    color: #ffffff;
+    font-weight: 300;
+
+}
+
+div.inp {
+    height: 35px;
+    padding-left: 10px;
+    position: relative;
+    top: 20px;;
+}
+
+.podpiska button {
+    height: 35px;
+    width: 185px;
+    border: solid 0px #259c47;
+    background-color: #259c47;
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 22px;
+    color: #ffffff;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+div.nespam {
+    padding-left: 15px
+}
+
+.podpiska span.type2 {
+    letter-spacing: 0px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 12px;
+    color: #ffffff;
+}
+
+div.nespam,
+span.type2 {
+    vertical-align: middle
+}
+
+.container .for {
+    width: 995px;
+    margin: 0px auto;
+    padding-left: 0px;
+}
+
+.tovar .menuline a {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 22px;
+    text-decoration: dashed;
+    color: #666666;
+    list-style-type: none;
+    margin-left: 0px;
+}
+
+.menuline a:hover,
+.menuline a.active {
+    color: #0069b4;
+}
+
+.tovar {
+    padding-bottom: 15px;
+}
+
+.tovar .menuline {
+    list-style-type: none;
+    float: left;
+}
+
+.knopa {
+    float: right;
+}
+
+.clear:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+.knopa button {
+    margin-left: 5px;
+    border: 0px;
+    background-color: #ffffff;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.tovar .menuline ul {
+    padding-left: 0px;
+}
+
+.tovar .menuline li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 20px 0px 0px;
+}
+
+.knopa button img {
+    height: 15px;
+}
+
+/* Menu tovarov*/ /* Menu tovarov*//* Menu tovarov*//* Menu tovarov*/
+.container_five {
+
+}
+
+.cataloglist {
+    display: inline-block;
+    margin: 0px -10px;
+}
+
+.cataloglist .dance {
+    padding: 10px;
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+
+}
+
+.clear {
+    clear: both;
+}
+.dance{
+
+}
+
+.cataloglist .dance img {
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+}
+
+.dance .textname,
+.dance a {
+    display: block;
+    vertical-align: top;
+}
+
+.dance span.textname {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #333333;
+}
+
+.container_five .cataloglist span.price {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 300;
+    color: #666666;
+    text-decoration: line-through;
+    vertical-align: top;
+}
+
+.container_five .cataloglist span.price1 {
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.container_five .cataloglist .dance span.price,
+.container_five .cataloglist .dance span.price1 {
+    position: relative;
+    top: 15px;
+}
+
+.container_five a {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #0069b4;
+}
+
+.container_five button {
+    height: 30px;;
+    width: 100px;
+    border: solid 1px #ff7200;
+    background-color: #ff7200;
+    color: #ffffff;
+    position: relative;
+    float: right;
+    top: 10px;
+}
+
+.container_five button:hover {
+    border: solid 1px #ff7200;
+    background-color: #ffffff;
+    color: #ff7200;
+}
+
+.dance {
+    position: relative;
+}
+
+.dance .hit {
+    position: absolute;
+    left: 7px;
+    top: 7px;
+    display: block;
+    width: 40px;
+    height: 20px;
+    font-size: 13px;
+    line-height: 22px;
+    color: #333333;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    border: solid 0px;
+    background-color: #6eddcc;
+
+}
+
+.dance .diskont {
+    position: absolute;
+    left: 7px;
+    top: 7px;
+    display: block;
+    width: 40px;
+    height: 20px;
+    font-size: 13px;
+    line-height: 22px;
+    color: #333333;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    border: solid 0px;
+    background-color: #ffed03;
+
+}
+
+/*SOCIAL NETWORK*//*SOCIAL NETWORK*//*SOCIAL NETWORK*/
+
+.container_social {
+}
+
+span.soc {
+    font-weight: 600;
+    font-size: 18px;
+    color: #666666;
+    margin-left: 375px;
+}
+
+div.snet {
+    height: 130px;
+    position: relative;
+    margin-top: 75px;
+}
+
+.socialimg2 img {
+    padding: 0px 18px 0px;
+}
+
+.socialimg1, .socialimg2, .socialimg3 {
+    display: inline-block;
+
+}
+
+div.button {
+
+    position: relative;
+    margin-top: 35px;
+}
+
+.button button {
+    height: 40px;
+    border: 0px;
+    background-color: #fefefe;
+}
+
+.button button:hover,
+.button button.open {
+    background-color: #f2fff7;
+
+}
+
+p.opis {
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 300;
+    color: #333333;
+
+}
+
+.tex1 button {
+    border: 0px;
+    background-color: #fefefe;
+}
+
+.infotext div {
+
+    position: relative;
+    padding-bottom: 35px;
+
+}
+
+footer {
+    background-color: #64ba4a;
+    height: 140px;
+
+}
+
+.bottom {
+    width: 980px;
+    margin: 0px auto;
+    position: relative;
+    top: 30px;
+}
+
+.bottom div * {
+    font-size: 13px;
+    line-height: 22px;
+    color: #fefefe;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.fox a.biat {
+    display: inline;
+    border-bottom: solid 1px #fefefe;
+}
+
+.info .tor .fox .contact {
+    display: inline-block;
+
+}
+
+div.contact,
+div.info,
+div.tor,
+div.fox {
+    float: left;
+    width: 25%;
+}
+
+.bottom .info ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.clear {
+    display: block;
+    content: "";
+    clear: both;
+}
+div.owl-dots{
+    position: absolute;
+    bottom: 15px;
+    left: 560px;
+}
+/*MediaMediaMediaMediaMediaMediaMediaMediaMediaMediaMediaMediaMediaMediaMedia
+@media (max-width: 1199px) {
+
+    header{
+        max-width: ;
+    }
+
+
+
+    .service {
+        width: 100%;}
+    .service .card {
+        box-sizing: border-box;
+        float: left;
+        width: 25%;
+    }
+
+    .clear:after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+    }
+
+    .podpiska{
+        width: 100%;
+    }
+
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}*/
